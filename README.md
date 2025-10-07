@@ -7,4 +7,4 @@ Provided actionable recommendations based on data-driven findings to improve ope
 Presentation Link: https://drive.google.com/file/d/16lYvIy1u7BX4JMCS7sBiyZvPwTTuXn-z/view?usp=sharing
 
 Participated in the SKYHACK 3.0 Hackathon conducted by United Airlines.
-SKYHACK Hackathon: https://xathon.mettl.com/workspace/UnitedAirlines/event/sky-hack-3
+  SKYHACK Hackathon: https://xathon.mettl.com/workspace/UnitedAirlines/event/sky-hack-3
